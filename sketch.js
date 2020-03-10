@@ -11,7 +11,7 @@ B = 0
 A = 0
 function setup() {
 
-    cnv = createCanvas(1455, 535);
+    cnv = createCanvas(1395, 495);
     background(255);
     cnv.mouseWheel(changeSize);
     h = 40;
